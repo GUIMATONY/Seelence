@@ -7,7 +7,7 @@ Nous allons essayer de concevoir des lunettes permettant aux sourds et malentand
 
 Pour cela nous utiliseront en pièce maîtresse, un Arduino mini Pro un écran OLED 128*64 et des capteurs senores KY-038(de référence).
 
-(Des pièces n'oont pu être récupérer ou commande trop longue de récéption nous ont forcé à retravailler les plans originaux  et théorique du concept. (plus de détails dnas la présentation) .
+(Des pièces n'ont pu être récupérer ou commande trop longue de récéption nous ont forcé à retravailler les plans originaux  et théorique du concept. (plus de détails dnas la présentation) .
 
 NONN Guillaume / ROYER Mateo / BEATINI Tony 
 
